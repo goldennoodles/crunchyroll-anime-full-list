@@ -9,3 +9,4 @@ This list is includes
   - Img Path
 
 Later iterations may include more info (if requested to be included)
+  - Description
