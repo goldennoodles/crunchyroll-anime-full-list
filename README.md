@@ -10,3 +10,4 @@ This list is includes
 
 Later iterations may include more info (if requested to be included)
   - Description
+  - Full CrunchyRoll Link
