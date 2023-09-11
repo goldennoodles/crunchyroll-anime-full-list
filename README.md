@@ -1,6 +1,6 @@
 # crunchyroll-anime-full-list
 
-I've developed a scrapper that will scrape crunchy roll to generate a full list of their avaliable animes.
+I've developed a scraper that will scrape crunchy roll to generate a full list of their avaliable animes.
 
 This list is includes
   - Anime Name
